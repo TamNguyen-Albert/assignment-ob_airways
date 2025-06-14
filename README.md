@@ -1,3 +1,13 @@
-# assignment-ob_airways
-Analyzing fuel performance of OB airways: monitor efficiency and identify opportunities for improvement
-Develop a machine learning model that assists OB Airways in predicting planned_flight_fuel_kilograms
+# ✈️ OB Airways Fuel Optimization
+
+This project analyzes and predicts planned flight fuel consumption using machine learning models based on OB Airways flight data.
+
+## 📂 Structure
+- `report/`: Project report (Markdown format)
+- `notebooks/`: Step-by-step implementation in Jupyter
+- `data/`: Input datasets (CSV)
+- `models/`: Trained models (optional)
+
+## 🔧 Setup
+```bash
+pip install -r requirements.txt
